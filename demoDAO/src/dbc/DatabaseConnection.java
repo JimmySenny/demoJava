@@ -39,12 +39,13 @@ public class DatabaseConnection implements IDatabaseConnection {
      * 关闭连接
      */
     public void close(){
-        if(this != null){
+        if(this.conn != null){
             try{
                 this.conn.close();
             }catch (SQLException e){
                 e.printStackTrace();
             }
+            this.conn = null;
         }
 
     }
