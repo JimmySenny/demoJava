@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 public class DatabaseConnection implements IDatabaseConnection {
     private static final String DBDRIVER = "com.mysql.cj.jdbc.Driver";
-    private static final String DBURL = "jdbc:mysql://127.0.0.1:3306/rmtdb?useUnicode=true＆characterEncoding=utf-8＆useSSL=false&serverTimezone=UTC";
+    private static final String DBURL = "jdbc:mysql://127.0.0.1:3306/rmtdb?useUnicode=true & characterEncoding=utf-8 & useSSL=false & serverTimezone=UTC";
     private static final String DBUSER = "root";
     private static final String DBPWD= "password";
     private Connection conn = null;
