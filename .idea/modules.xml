@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demoDAO/src/dbc/dbc.iml" filepath="$PROJECT_DIR$/demoDAO/src/dbc/dbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoDAO/demoDAO.iml" filepath="$PROJECT_DIR$/demoDAO/demoDAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyanlou/shiyanlou.iml" filepath="$PROJECT_DIR$/shiyanlou/shiyanlou.iml" />
       <module fileurl="file://$PROJECT_DIR$/syntax/syntax.iml" filepath="$PROJECT_DIR$/syntax/syntax.iml" />
     </modules>
   </component>
