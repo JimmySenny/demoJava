@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a50a42bb-beb1-46c4-9512-c1f8b0d06923" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demoDesign/demoDesign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml.orig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoDAO/demoDAO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demoDAO/demoDAO.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demoDAO/META-INF/demoDAO.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiyanlou/src/design/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoDesign/src/demo/CreationalPattern/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiyanlou/src/design/BuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoDesign/src/demo/CreationalPattern/BuilderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiyanlou/src/design/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoDesign/src/demo/CreationalPattern/FactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiyanlou/src/design/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoDesign/src/demo/CreationalPattern/PrototypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiyanlou/src/design/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoDesign/src/demo/CreationalPattern/SingletonTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a50a42bb-beb1-46c4-9512-c1f8b0d06923" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,91 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/StrategyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/TemplateMethodTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-              <folding>
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/ObserverTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#673#683#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#842#843#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#1241#1242#0" expanded="true" />
-                <element signature="e#1277#1278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/IteratorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
-              <folding>
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
-                <element signature="e#1293#1294#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/ChainofResponsibilityTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-              <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/CommandTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="278">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               <folding>
                 <element signature="e#186#187#0" expanded="true" />
                 <element signature="e#226#227#0" expanded="true" />
@@ -126,6 +29,56 @@
                 <element signature="e#277#278#0" expanded="true" />
                 <element signature="e#488#489#0" expanded="true" />
                 <element signature="e#526#527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/MediatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+              <folding>
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/InterpreterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="53" column="95" selection-start-line="53" selection-start-column="95" selection-end-line="53" selection-end-column="95" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,13 +117,18 @@
         <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/IteratorTest.java" />
         <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/ChainofResponsibilityTest.java" />
         <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/CommandTest.java" />
+        <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/MementoTest.java" />
+        <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/StateTest.java" />
+        <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/VistorTest.java" />
+        <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/MediatorTest.java" />
+        <option value="$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/InterpreterTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="500" />
-    <option name="y" value="28" />
-    <option name="width" value="1334" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="575" />
+    <option name="y" value="13" />
+    <option name="width" value="806" />
     <option name="height" value="887" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -216,6 +174,22 @@
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="demo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="BehavioralPattern" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="demoJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\git-demo\demoJava" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="demoDesign" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="demo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="CreationalPattern" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="demoJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\git-demo\demoJava" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="demoDesign" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="demo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="StructuralPattern" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="demoJava" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -266,9 +240,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandTest">
-    <configuration name="ChainofResponsibilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.ChainofResponsibilityTest" />
+  <component name="RunManager" selected="Application.InterpreterTest">
+    <configuration name="InterpreterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.InterpreterTest" />
       <module name="demoDesign" />
       <extension name="coverage">
         <pattern>
@@ -280,8 +254,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommandTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.CommandTest" />
+    <configuration name="MediatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.MediatorTest" />
       <module name="demoDesign" />
       <extension name="coverage">
         <pattern>
@@ -293,8 +267,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.IteratorTest" />
+    <configuration name="MementoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.MementoTest" />
       <module name="demoDesign" />
       <extension name="coverage">
         <pattern>
@@ -306,8 +280,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.ObserverTest" />
+    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.StateTest" />
       <module name="demoDesign" />
       <extension name="coverage">
         <pattern>
@@ -319,8 +293,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplateMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.TemplateMethodTest" />
+    <configuration name="VistorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.BehavioralPattern.VistorTest" />
       <module name="demoDesign" />
       <extension name="coverage">
         <pattern>
@@ -334,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CommandTest" />
-        <item itemvalue="Application.ChainofResponsibilityTest" />
-        <item itemvalue="Application.IteratorTest" />
-        <item itemvalue="Application.ObserverTest" />
-        <item itemvalue="Application.TemplateMethodTest" />
+        <item itemvalue="Application.InterpreterTest" />
+        <item itemvalue="Application.MediatorTest" />
+        <item itemvalue="Application.VistorTest" />
+        <item itemvalue="Application.StateTest" />
+        <item itemvalue="Application.MementoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -352,15 +326,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558761664586</updated>
-      <workItem from="1558761668096" duration="15750000" />
+      <workItem from="1558761668096" duration="20419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15750000" />
+    <option name="totallyTimeSpent" value="20419000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="500" y="28" width="1334" height="887" extended-state="0" />
+    <frame x="-7" y="-7" width="1381" height="895" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Learn" order="0" weight="0.34037736" />
@@ -369,9 +343,9 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" x="94" y="128" width="323" height="756" id="Project" order="6" visible="true" weight="0.17370892" />
+      <window_info content_ui="combo" x="94" y="128" width="323" height="756" id="Project" order="6" visible="true" weight="0.16754717" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32742155" />
+      <window_info anchor="bottom" id="Messages" weight="0.32523617" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
@@ -379,7 +353,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32863188" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.31650752" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32253712" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -397,6 +371,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/MementoTest.java</url>
+          <line>49</line>
+          <properties class="demo.BehavioralPattern.Storage" method="getMemento">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/StructuralPattern/ProxyTest.java">
@@ -640,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/CommandTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="278">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           <folding>
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
@@ -651,6 +639,121 @@
             <element signature="e#277#278#0" expanded="true" />
             <element signature="e#488#489#0" expanded="true" />
             <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/MementoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#980#981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/StateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/VistorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/MediatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoDesign/src/demo/BehavioralPattern/InterpreterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="53" column="95" selection-start-line="53" selection-start-column="95" selection-end-line="53" selection-end-column="95" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
           </folding>
         </state>
       </provider>
