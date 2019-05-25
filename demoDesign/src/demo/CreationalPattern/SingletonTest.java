@@ -1,4 +1,4 @@
-package design;
+package demo.CreationalPattern;
 
 /**
  * 单例模式使用内部类来维护单例的实现，JVM内部的机制能够保证当一个类被加载的时候，

@@ -23,5 +23,6 @@
 hs_err_pid*
 
 #IDEA
-#*.idea
-#*.iml
+*.iml
+*.idea
+out

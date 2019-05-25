@@ -1,4 +1,4 @@
-package design;
+package demo.CreationalPattern;
 
 interface Food {
     public String getFoodName();
