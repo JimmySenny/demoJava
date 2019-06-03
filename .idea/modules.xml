@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/shiyanlou/Calculator.iml" filepath="$PROJECT_DIR$/shiyanlou/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoDAO/demoDAO.iml" filepath="$PROJECT_DIR$/demoDAO/demoDAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoDesign/demoDesign.iml" filepath="$PROJECT_DIR$/demoDesign/demoDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiyanlou/shiyanlou.iml" filepath="$PROJECT_DIR$/shiyanlou/shiyanlou.iml" />
