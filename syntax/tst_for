@@ -1,0 +1,16 @@
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class TestFor {
+    public static void main(String[] args) {
+        List<String> list = new ArrayList<String>();
+        list.add("A");
+        list.add("B");
+        list.add("C");
+        Iterator<String> itre = list.iterator();
+        for( String ignored : list ){
+             System.out.println(itre.next());
+        }
+    }
+}
